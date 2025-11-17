@@ -199,7 +199,7 @@ c
 // Реакция на прерывания за микросекунды
 void EXTI0_IRQHandler(void) {
 
-    // Обработка критического события
+    Обработка критического события
     HAL_GPIO_TogglePin(LED_GPIO_Port, LED_Pin);
     HAL_EXTI_ClearPending(&hexti0, EXTI_TRIGGER_RISING);
 }
