@@ -96,10 +96,10 @@
 
 #### **HAL (Hardware Abstraction Layer)**
 
-// Пример использования HAL
-HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_SET);
-HAL_Delay(1000);
-HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
+    // Пример использования HAL
+    HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_SET);
+    HAL_Delay(1000);
+    HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_RESET);
 
 Унифицированный API для всех семейств
 
