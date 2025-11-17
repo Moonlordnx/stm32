@@ -95,7 +95,7 @@
 ### 📚 2.2. Программные библиотеки
 
 #### **HAL (Hardware Abstraction Layer)**
-```c
+
 // Пример использования HAL
 HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_SET);
 HAL_Delay(1000);
