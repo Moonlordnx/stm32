@@ -95,6 +95,11 @@ cd data/renode
 
 
 
+<img width="1126" height="702" alt="image" src="https://github.com/user-attachments/assets/a3155deb-66a0-46f1-9721-b275808c96a7" />
+
+
+
+
 
 
 
