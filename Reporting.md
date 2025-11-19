@@ -85,3 +85,17 @@ cd data/renode
 **Дата выполнения:** `$(date +%Y-%m-%d)`  
 **Версия Renode:** [указать версию]  
 **ОС:** [указать операционную систему]
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a89d0b20-74c5-456b-bd63-3140a7770cc2" />
+<img width="490" height="385" alt="image" src="https://github.com/user-attachments/assets/536d4e5d-2cf0-4180-999d-afcd94c45d22" />
+<img width="95" height="102" alt="image" src="https://github.com/user-attachments/assets/687aafd0-9f29-4ae6-b9a4-cd8508215bb1" />
+<img width="1435" height="724" alt="image" src="https://github.com/user-attachments/assets/095012e7-764a-470e-848b-ec22e2d3e08e" />
+<img width="700" height="70" alt="image" src="https://github.com/user-attachments/assets/ece4d7fa-14df-4535-9478-ff3b16cabe7c" />
+<img width="699" height="426" alt="image" src="https://github.com/user-attachments/assets/6a5607cd-f0d0-4a18-a4f3-9beb033f3fe0" />
+
+
+
+
+
+
+
